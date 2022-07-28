@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Renan and i'm a Data Product Owner!</h1><br>
+<h2 align="center">Hi 👋  I'm Renan and i'm a Data Product Owner!</h1><br>
 
 - 🔭 I’m currently working at [Grupo Boticário](https://grupoboticario.gupy.io/)
 - 🌱 I’m currently learning **SQL, Python, ABAP**
